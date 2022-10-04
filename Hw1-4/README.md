@@ -12,11 +12,16 @@ The seven segment display Shows the corresponding pattern that you input
 ## P.S.
 Some letters are hard to display accurately via seven segment display, the corresponding seven segment display pattern of the following letters are defined as below:
 
-`K` would be displayed in the pattern of `H`,\n
-`M` would be displayed in the pattern of `3`,\n
-`U` would be displayed in the pattern of `U`,\n
-`v` would be displayed in the pattern of `u`,\n
-`w` would be displayed in the pattern of `3`,\n
-`x` would be displayed in the pattern of `H`,\n
+`K` would be displayed in the pattern of `H`,
+
+`M` would be displayed in the pattern of `3`,
+
+`U` would be displayed in the pattern of `U`,
+
+`v` would be displayed in the pattern of `u`,
+
+`w` would be displayed in the pattern of `3`,
+
+`x` would be displayed in the pattern of `H`,
 
 Please check the lab report for further information.
